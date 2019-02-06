@@ -1,0 +1,8 @@
+  410  git status
+  411  pwd
+  412  git add -A
+  413  git status
+  414  git commit -m "Initial Commit"
+  415  git remote add origin https://github.com/sachin16495/Demand-Forecasting.git
+  416  git remote add deman https://github.com/sachin16495/Demand-Forecasting.git
+  417  git push -u deman master
